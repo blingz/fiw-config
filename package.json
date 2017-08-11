@@ -1,0 +1,21 @@
+{
+    "name": "fiw-config",
+    "version": "0.1.0",
+    "description": "read json from file for config",
+    "main": "lib/index.js",
+    "repository": "git://github.com/blingz/fiw-config.git",
+    "author": "Blingz",
+    "homepage": "https://github.com/blingz/fiw-config",
+    "license": "MIT",
+    "keywords": [
+        "config",
+        "json",
+        "fibjs"
+    ],
+    "scripts": {
+        "ci": "fibjs test.js"
+    },
+    "ci": {
+        "type": "travis"
+    }
+}

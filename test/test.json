@@ -1,0 +1,8 @@
+{
+  "test": 123,
+  "str": "12313",  //commet for something
+  "parent": {
+    "child": "abc"  //child abc
+  },
+  "array": ["x", "y"]
+}
